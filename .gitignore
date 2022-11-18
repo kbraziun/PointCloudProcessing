@@ -1,0 +1,10 @@
+# files not to be tracked
+*.DS_Store
+*.ini
+.Rhistory
+.RData
+.Ruserdata
+
+# files to be tracked with git lfs
+IronMtn_Derby_1_5_long_2_rgb_hh_tlas.laz 
+IronMtn_Derby_1_1_long_1_rgb_hh_tlas.laz
