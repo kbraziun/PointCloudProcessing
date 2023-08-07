@@ -20,7 +20,7 @@ Directory structure and files:
 
 - `data/`: Field plot measurements. Does not include raw point clouds, due to size constraints. These can be provided upon request.
 - `figures/`: Figures comparing field measurements with UAS DAP-derived data.
-- `processed_data/`: Data altered from raw form. Includes tree top locations, segmented point clouds, canopy height models, summary statistics, and forest structure outputs.
+- `processed_data/`: Data altered from raw form. Includes tree top locations, segmented point clouds, canopy height models, summary statistics, and forest structure outputs. Two files are not included due to Github size limitations, `IronMtn_Derby_1_1_long_1_rgb_hh_tlas.laz` and `IronMtn_Derby_1_5_long_2_rgb_hh_tlas.laz`. Please contact me directly for copies of these files.
 - `report/`: Final report submitted to Joint Fire Science Program.
 - `scripts/`: R scripts.
 
